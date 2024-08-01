@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|c:\\users\\lms\\desktop\\billproject\\billproject\\model\\ractangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:model\\ractangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\videopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:videopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\model\\tsock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:model\\tsock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\model\\bindd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:model\\bindd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\model\\go.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:model\\go.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\uploadbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\uploadbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\videoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\videoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\videopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:videopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\to.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\to.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\totalbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\totalbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\tobtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\tobtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\gomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\gomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\getwindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\getwindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\dayvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\dayvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\accountbookbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\accountbookbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\dayday.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:dayday.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\dayday.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:dayday.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\viewmodel\\flex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:viewmodel\\flex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\total.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:total.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\total.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:total.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5B5E280-0A77-4A0C-930F-562AB67C67BF}|BillProject.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iot\\source\\repos\\BillProject4\\BillProject\\Resources\\\uBC84\uD2BC.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 772,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\UploadBtn.cs",
+              "RelativeDocumentMoniker": "ViewModel\\UploadBtn.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\UploadBtn.cs",
+              "RelativeToolTip": "ViewModel\\UploadBtn.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:29:14.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VideoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\VideoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\VideoViewModel.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\VideoViewModel.cs",
+              "RelativeToolTip": "ViewModel\\VideoViewModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowFwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:20:57.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetWindows.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\GetWindows.cs",
+              "RelativeDocumentMoniker": "ViewModel\\GetWindows.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\GetWindows.cs",
+              "RelativeToolTip": "ViewModel\\GetWindows.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T00:36:20.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\VideoPage.xaml.cs",
+              "RelativeDocumentMoniker": "VideoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\VideoPage.xaml.cs",
+              "RelativeToolTip": "VideoPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T01:10:08.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "To.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\To.cs",
+              "RelativeDocumentMoniker": "ViewModel\\To.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\To.cs",
+              "RelativeToolTip": "ViewModel\\To.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:48:16.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tobtn.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\Tobtn.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Tobtn.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\Tobtn.cs",
+              "RelativeToolTip": "ViewModel\\Tobtn.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:54:41.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TotalBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\TotalBtn.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TotalBtn.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\TotalBtn.cs",
+              "RelativeToolTip": "ViewModel\\TotalBtn.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T00:43:45.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ractangle.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Model\\ractangle.cs",
+              "RelativeDocumentMoniker": "Model\\ractangle.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Model\\ractangle.cs",
+              "RelativeToolTip": "Model\\ractangle.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwH8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:29:17.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bindd.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Model\\bindd.cs",
+              "RelativeDocumentMoniker": "Model\\bindd.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Model\\bindd.cs",
+              "RelativeToolTip": "Model\\bindd.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:45:09.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\mainPage.xaml",
+              "RelativeDocumentMoniker": "mainPage.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\mainPage.xaml",
+              "RelativeToolTip": "mainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-06T03:31:00.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Go.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Model\\Go.cs",
+              "RelativeDocumentMoniker": "Model\\Go.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Model\\Go.cs",
+              "RelativeToolTip": "Model\\Go.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:15:26.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tsock.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Model\\Tsock.cs",
+              "RelativeDocumentMoniker": "Model\\Tsock.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Model\\Tsock.cs",
+              "RelativeToolTip": "Model\\Tsock.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:13:25.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\VideoPage.xaml",
+              "RelativeDocumentMoniker": "VideoPage.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\VideoPage.xaml",
+              "RelativeToolTip": "VideoPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T11:12:34.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountBookBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\AccountBookBtn.cs",
+              "RelativeDocumentMoniker": "ViewModel\\AccountBookBtn.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\AccountBookBtn.cs",
+              "RelativeToolTip": "ViewModel\\AccountBookBtn.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T01:14:19.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GoMain.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\GoMain.cs",
+              "RelativeDocumentMoniker": "ViewModel\\GoMain.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\GoMain.cs",
+              "RelativeToolTip": "ViewModel\\GoMain.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:53:10.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DayDay.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\DayDay.xaml",
+              "RelativeDocumentMoniker": "DayDay.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\DayDay.xaml",
+              "RelativeToolTip": "DayDay.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-05T11:46:03.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DayDay.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\DayDay.xaml.cs",
+              "RelativeDocumentMoniker": "DayDay.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\DayDay.xaml.cs",
+              "RelativeToolTip": "DayDay.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:02:19.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Start.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Start.xaml",
+              "RelativeDocumentMoniker": "Start.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Start.xaml",
+              "RelativeToolTip": "Start.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T10:45:21.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Total.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Total.xaml",
+              "RelativeDocumentMoniker": "Total.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Total.xaml",
+              "RelativeToolTip": "Total.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T11:12:18.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Total.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Total.xaml.cs",
+              "RelativeDocumentMoniker": "Total.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Total.xaml.cs",
+              "RelativeToolTip": "Total.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:04:26.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DayValue.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\DayValue.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DayValue.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\DayValue.cs",
+              "RelativeToolTip": "ViewModel\\DayValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:17:09.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FLEX.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\FLEX.cs",
+              "RelativeDocumentMoniker": "ViewModel\\FLEX.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\ViewModel\\FLEX.cs",
+              "RelativeToolTip": "ViewModel\\FLEX.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T01:23:55.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "mainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\mainPage.xaml.cs",
+              "RelativeDocumentMoniker": "mainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\mainPage.xaml.cs",
+              "RelativeToolTip": "mainPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:56:12.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Start.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Start.xaml.cs",
+              "RelativeDocumentMoniker": "Start.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\Start.xaml.cs",
+              "RelativeToolTip": "Start.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:28:02.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:48:05.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\BillProject\\BillProject\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T06:11:49.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "\uBC84\uD2BC.jpg",
+              "DocumentMoniker": "C:\\Users\\iot\\source\\repos\\BillProject4\\BillProject\\Resources\\\uBC84\uD2BC.jpg",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\iot\\source\\repos\\BillProject4\\BillProject\\Resources\\\uBC84\uD2BC.jpg",
+              "ToolTip": "C:\\Users\\iot\\source\\repos\\BillProject4\\BillProject\\Resources\\\uBC84\uD2BC.jpg",
+              "RelativeToolTip": "..\\..\\..\\..\\iot\\source\\repos\\BillProject4\\BillProject\\Resources\\\uBC84\uD2BC.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-04T00:55:09.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

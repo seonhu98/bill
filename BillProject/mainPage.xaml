@@ -1,0 +1,44 @@
+﻿<Window x:Class="BillProject.mainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BillProject"
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="600"
+      Title="mainPage" Height="400" Width="600">
+
+    <Grid Height="400" Width="600">
+        <Button x:Name="total1" Content="총 지출내역" BorderBrush="{x:Null}" Opacity="0.7" Command="{Binding Fb}" Width="155" Height="160" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="396,46,0,0" FontSize="20" Foreground="#FF634B4B" FontFamily="Impact" FontWeight="Bold">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="200"/>
+                </Style>
+            </Button.Resources>
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/버튼.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="day" Content="지출내역" BorderBrush="{x:Null}" Opacity="0.7" Command="{Binding Ab}" Width="160" Height="155" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="70,46,0,0" FontSize="20" FontFamily="Impact" FontWeight="Bold" Foreground="#FF634B4B">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="200"/>
+                </Style>
+            </Button.Resources>
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/버튼.jpg" Opacity="1"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="bill" Content="영수증 업로드" BorderBrush="{x:Null}" Opacity="0.7" Command="{Binding Tb}" Width="155" Height="160" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,200,0,0" FontFamily="Impact" FontSize="20" FontWeight="Bold" Foreground="#FF634B4B">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="200"/>
+                </Style>
+            </Button.Resources>
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/버튼.jpg"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>
